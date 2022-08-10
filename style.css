@@ -1,0 +1,33 @@
+#woman{
+    width: 300px;
+    height: 100px;
+    background: #C096CC;
+}
+
+#man{
+    width: 300px;
+    height: 100px;
+    background: #6C9CCC;
+   
+}
+
+.box{
+    font-size: 25px;
+    color: #004242;
+    display: flex;
+    gap: 20px;
+}
+
+.title{
+    
+    display: flex;
+    gap: 270px;
+}
+
+#btn1{
+    margin: 10px;
+    width: 130px;
+    height: 40px;
+    background: #20B2AA;
+    font-size: 20px;
+}
